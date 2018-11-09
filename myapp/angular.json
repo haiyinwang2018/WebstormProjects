@@ -77,8 +77,10 @@
             "scripts": [],
             "assets": [
               "src/favicon.ico",
-              "src/asserts"
-            ],
+              "src/assets"
+            ]
+          }
+        },
         "lint": {
           "builder": "@angular-devkit/build-angular:tslint",
           "options": {
